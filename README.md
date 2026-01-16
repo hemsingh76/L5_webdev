@@ -1,2 +1,10 @@
 # L5_webdev
-This repo contains all contents that are taught in L5 sem2.
+Html Exercises
+
+Description:
+This repo contains exercises that are told to be completed.
+
+Steps:
+
+
+
