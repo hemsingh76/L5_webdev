@@ -4,7 +4,8 @@ Html Exercises
 Description:
 This repo contains exercises that are told to be completed.
 
-Steps:
+Steps to run project:
+click on file and copy code. Run that code.
 
 
 
